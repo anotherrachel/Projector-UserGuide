@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'EB-C1040XN投影仪使用指南'
+project = 'User Guide for EB-C1040XN'
 copyright = '2018, Group'
 author = 'Group'
 
@@ -170,7 +170,7 @@ texinfo_documents = [
 # -- Options for Epub output -------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = project
+epub_title = u'User Guide for EB-C1040XN' 
 
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
