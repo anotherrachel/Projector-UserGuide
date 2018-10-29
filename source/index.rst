@@ -22,7 +22,7 @@ Welcome to Projector User Guide's documentation!
    :maxdepth: 2
    :caption: 声明
 
-   5-Statement\statement.md
+   5-Statement/statement.md
 
 Indices and tables
 ==================
