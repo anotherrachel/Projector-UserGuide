@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#
+\usepackage{xeCJK}
 # Configuration file for the Sphinx documentation builder.
 #
 # This file does only contain a selection of the most common options. For a
@@ -117,7 +117,6 @@ htmlhelp_basename = 'ProjectorUserGuidedoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
