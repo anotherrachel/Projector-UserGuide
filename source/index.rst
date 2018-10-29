@@ -18,6 +18,12 @@ Welcome to Projector User Guide's documentation!
 
    2-BasicUse/basics.md
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 声明
+
+   5-Statement/statement.md
+
 Indices and tables
 ==================
 
