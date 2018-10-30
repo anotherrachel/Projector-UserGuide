@@ -8,35 +8,30 @@ Welcome to Projector User Guide's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 简介
+   :caption: 快速入门
 
-   1-Introduction/info.md
-
-.. toctree::
-   :maxdepth: 2
-   :caption: 基本使用
-
-   2-BasicUse/basics.md
-   2-BasicUse/caution.md
+   1-Quickstart/info.md
+   1-Quickstart/basics.md
 
 .. toctree::
    :maxdepth: 2
-   :caption: 功能
+   :caption: 安全须知
 
-   3-Quickstart/info.md
-
-.. toctree::
-   :maxdepth: 2
-   :caption: 声明
-
-   5-Statement/statement.md
+   2-Security/caution.md
 
 .. toctree::
    :maxdepth: 2
    :caption: 故障排除
 
-   6-TroubleShooting/help.md
-   6-TroubleShooting/repairmethods.md
+   3-TroubleShooting/repairmethods.rst
+   3-TroubleShooting/help.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 声明
+
+   4-Statement/statement.md
+
 
 Indices and tables
 ==================
