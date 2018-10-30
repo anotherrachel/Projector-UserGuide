@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'User Guide for EB-C1040XN'
-copyright = '2018, Group'
-author = 'Group'
+copyright = '2018, Big Hero 6'
+author = 'Big Hero 6'
 
 # The short X.Y version
 version = ''
