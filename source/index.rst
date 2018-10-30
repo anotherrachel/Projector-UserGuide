@@ -27,6 +27,13 @@ Welcome to Projector User Guide's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :caption: 简介、功能
+
+   3-Quickstart/info.md
+
+
+.. toctree::
+   :maxdepth: 2
    :caption: 故障排除
 
    6-TroubleShooting/help.md
