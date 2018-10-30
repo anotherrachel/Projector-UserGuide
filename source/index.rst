@@ -27,7 +27,7 @@ Welcome to Projector User Guide's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 简介、功能
+   :caption: 功能
 
    3-Quickstart/info.md
 
