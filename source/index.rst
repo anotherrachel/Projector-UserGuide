@@ -17,6 +17,7 @@ Welcome to Projector User Guide's documentation!
    :caption: 基本使用
 
    2-BasicUse/basics.md
+   2-BasicUse/caution.md
 
 .. toctree::
    :maxdepth: 2
