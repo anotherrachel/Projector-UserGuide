@@ -27,11 +27,11 @@ Welcome to Projector User Guide's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 修理方式
+   :caption: 故障排除
 
-   6-troubleshooting/repairmethods.md
-   
-   
+   6-TroubleShooting/help.md
+   6-TroubleShooting/repairmethods.md
+
 Indices and tables
 ==================
 
