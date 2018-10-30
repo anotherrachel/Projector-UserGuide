@@ -25,6 +25,13 @@ Welcome to Projector User Guide's documentation!
 
    5-Statement/statement.md
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 修理方式
+
+   6-troubleshooting/repairmethods.md
+   
+   
 Indices and tables
 ==================
 
