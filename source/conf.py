@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'User Guide for EB-C1040XN'
+project = 'Quick Start for EB-C1040XN'
 copyright = '2018, Big Hero 6'
 author = 'Big Hero 6'
 
