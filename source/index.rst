@@ -12,6 +12,7 @@
 
    1-Quickstart/info.md
    1-Quickstart/basics.md
+   1-Quickstart/help.rst
 
 .. toctree::
    :maxdepth: 2
@@ -25,7 +26,7 @@
 
    3-TroubleShooting/signals.md
    3-TroubleShooting/repairmethods.rst
-   3-TroubleShooting/help.rst
+
 
 .. toctree::
    :maxdepth: 2
