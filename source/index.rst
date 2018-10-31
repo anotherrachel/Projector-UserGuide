@@ -8,7 +8,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 快速指南
+   :caption: 快速上手
 
    1-Quickstart/info.md
    1-Quickstart/basics.md
